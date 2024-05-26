@@ -1,0 +1,7 @@
+googletrans
+gradio==4.25.0
+gpt4all==2.6.0
+requests==2.31.0
+faster-whisper==1.0.2
+transformers==4.40.2
+torch==torch==2.2.2+cu121
